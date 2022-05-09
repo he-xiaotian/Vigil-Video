@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <HelloWorld/>
+    <HelloWorld />
   </div>
 </template>
 
@@ -13,13 +13,9 @@ export default {
     HelloWorld,
   },
   data() {
-    return {
-      
-    }
+    return {}
   },
-   created() {
-    
-  },
+  created() {},
 }
 </script>
 
